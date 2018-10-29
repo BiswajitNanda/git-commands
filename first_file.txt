@@ -1,1 +1,9 @@
+Some more text now 
+
+added 
+
+to verify 
+
+merge
+
 This is my first file
