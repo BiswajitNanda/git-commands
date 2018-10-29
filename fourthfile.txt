@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 This is my story 
 
 I live in ascot 
 
 
+=======
+This is Biswajit Nanda and I live in 
+ascot 
+
+I follow Sahaja yoga and live to do music
+
+
+some change
+>>>>>>> goodbranch
