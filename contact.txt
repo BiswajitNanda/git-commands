@@ -1,3 +1,5 @@
-Merge Conflict - another branch 
+Merge Conflict - another branch
+
+some more changes in contact in completenew 
 
 
