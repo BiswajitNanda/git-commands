@@ -1,11 +1,1 @@
 This is a merge conflict scenario
-
-some more added
-
-mere change
-
-some more again
-
-some more 
-
-
